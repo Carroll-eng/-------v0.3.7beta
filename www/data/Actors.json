@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":40,"name":"亚修","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":2,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":40,"name":"丽莎","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"RMS","characterIndex":0,"characterName":"RMS1","classId":5,"equips":[7,1,6,3,4],"faceIndex":0,"faceName":"RMS1","traits":[],"initialLevel":5,"maxLevel":40,"name":"亚瑟","nickname":"","note":"","profile":"年纪轻轻就成为守护者，在保护谜题的同时还要帮忙养\n育弟弟，对岩石独有天赋。"},
+{"id":4,"battlerName":"联盟会长","characterIndex":0,"characterName":"lmhz","classId":6,"equips":[17,13,15,14,4],"faceIndex":0,"faceName":"lmhz","traits":[],"initialLevel":8,"maxLevel":40,"name":"巴曼","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"scs","characterIndex":0,"characterName":"scs1","classId":4,"equips":[4,22,10,19,4],"faceIndex":0,"faceName":"SCS1","traits":[],"initialLevel":10,"maxLevel":40,"name":"兰璃","nickname":"","note":"","profile":"海湾市的谜题守护者，希望出去逛逛可惜出于职业任务\n只能呆在海湾市.对射箭有所天赋"},
+{"id":6,"battlerName":"NMNS","characterIndex":0,"characterName":"NMNS","classId":7,"equips":[19,13,12,14,4],"faceIndex":0,"faceName":"NMNS2","traits":[],"initialLevel":10,"maxLevel":40,"name":"奥伯·独眼","nickname":"","note":"","profile":"矮人的后代，曾经被龙抓伤，如今已学会驾驭该生物，\n打算出版该方面书籍"},
+{"id":7,"battlerName":"WBS2","characterIndex":0,"characterName":"WBS2","classId":3,"equips":[3,0,10,22,4],"faceIndex":0,"faceName":"WBS2","traits":[],"initialLevel":10,"maxLevel":40,"name":"伦娜斯","nickname":"","note":"","profile":"在飞龙市衰落时前往乌比市求学，遇见了谜题守护者芙莲\n在森林魔法发掘后，接替年老的芙莲成为守护者"},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
